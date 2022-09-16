@@ -14,6 +14,7 @@ module.exports = {
     'vue/no-unused-components': 'off',
     'space-before-function-paren': 'off',
     'no-useless-return': 'off',
-    'no-unused-vars': 'off'
+    'no-unused-vars': 'off',
+    'vue/return-in-computed-property': 'off'
   }
 }
